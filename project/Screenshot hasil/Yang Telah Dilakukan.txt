@@ -1,0 +1,5 @@
+-Menggunakan JDK 8.241
+-Update Eclipse IDE for Enterprise Java Developers 2020-3
+-Pindah direktori payara 5 ke C:
+-Menambah payara ke 'Server and Runtime'
+-Mencoba menggunakan Tomcat, tetapi 'The requested resource is not available'
